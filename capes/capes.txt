@@ -1,2 +1,3 @@
 bitcynth:https://raw.github.com/Universal-Electricity/Universal-Electricity/master/capes/dev_cape.png
 Qt5:https://cdn.cynthia.re/upload/2011.png
+Notch:https://fsdata.se/assets/images/banner.jpg
